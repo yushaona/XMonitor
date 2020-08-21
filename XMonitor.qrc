@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/bgimage">
+        <file>skins/01/background_l.bmp</file>
+        <file>skins/02/background.bmp</file>
+        <file>skins/02/background_l.bmp</file>
+        <file>skins/01/background.bmp</file>
+        <file>skins/03/background.bmp</file>
+        <file>skins/03/background_l.bmp</file>
+        <file>skins/04/background.bmp</file>
+        <file>skins/04/background_l.bmp</file>
+    </qresource>
+    <qresource prefix="/logo">
+        <file>logo/XMonitor150x150.png</file>
+    </qresource>
+</RCC>
